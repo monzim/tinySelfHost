@@ -1,2 +1,3 @@
-# tinySelfHost
-I don't Own this Codes/ It's all belongs to www.tiny.cloud. I am using it in my personal Project
+# TinySelfHost
+
+## This Code not own by me. I am using it for my personal project. It belogs to https://github.com/tinymce/tinymce
